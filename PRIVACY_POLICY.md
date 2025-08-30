@@ -47,5 +47,5 @@ Users will be notified of any policy changes through extension updates.
 ### Contact Information
 For privacy concerns, contact: Mohammad Hossein Norouzi
 GitHub: https://github.com/MohammadHNdev
-
+https://chromewebstore.google.com/detail/spotify-playlist-extracto/plfnooamelbhnlekpfgncaljdhmggnej?authuser=0&hl=en
 Last Updated: January 2025
